@@ -1,0 +1,4 @@
+‘/etc/ansible/ansible.cfg’ -> ‘/home/cloud_user/backup/ansible.cfg’
+‘/etc/ansible/hosts’ -> ‘/home/cloud_user/backup/hosts’
+‘/etc/ansible/originalhosts.bkp’ -> ‘/home/cloud_user/backup/originalhosts.bkp’
+cp: omitting directory ‘/etc/ansible/roles’

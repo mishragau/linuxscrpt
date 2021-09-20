@@ -1,0 +1,2 @@
+i7,4GHz,32GB,4TB
+i5,3GHz,16GB,1TB
